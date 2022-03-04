@@ -251,7 +251,7 @@
     </section>
     <section class="food__list__container ">
         <div class="food_list__container__back "></div>
-        <h1 class="text-x1 "> book Flight & Cabs </h1>
+        <h1 class="text-x1 "> Book Flight & Cabs </h1>
         <div class="food__menu__card__list ">
             <div class="food__menu__card ">
                 <img src="./assets/air1.png " alt="resortimage " class="hotel__image " />
